@@ -1,2 +1,2 @@
 My new readMe
-ALX SChool is awesome, a very helpful programme.
+ALX School is awesome, a very helpful programme.
